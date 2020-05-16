@@ -11,6 +11,6 @@ public class HelloController {
     @RequestMapping("/hello")
     public String toString() {
 
-        return "hello java  热";
+        return "hello java 这一次热部署成功了";
     }
 }
